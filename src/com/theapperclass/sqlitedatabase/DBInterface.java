@@ -29,6 +29,8 @@ public class DBInterface extends SQLiteOpenHelper{
 	private static final String Dept = "dept";
 	private static final String Stamp = "stamp";
 	
+	testing GITHUB
+	
 	@Override
 	public void onCreate(SQLiteDatabase db) {
 		// TODO Auto-generated method stub
