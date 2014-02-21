@@ -28,8 +28,7 @@ public class DBInterface extends SQLiteOpenHelper{
 	private static final String Name = "name";
 	private static final String Dept = "dept";
 	private static final String Stamp = "stamp";
-	
-	testing GITHUB kwjf;aksldgenreiorjmwenirjtiweaprjgkasjgnkslgaierg
+
 	
 	@Override
 	public void onCreate(SQLiteDatabase db) {
